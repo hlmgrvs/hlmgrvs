@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vlad, a Localization Engineer with a major Language Service Provider
+- 👋 Hi, I’m Vlad, a Localization Engineer at a major Language Service Provider
 - 👀 I’m interested in software localization solutions and web-development
 - 🌱 I’m currently learning NODE, React, Vue, MongoDB
 
